@@ -1,3 +1,8 @@
-# nlp-analysis-amazon-review
+# GOAL: Monitoring people's feedback on Amazon Fine Food sites
 
-#Goal: moniotr people's feedback
+# Specifically, the project covered the following 4 areas:
+
+* Exploratory analysis: 
+* 
+*
+*
