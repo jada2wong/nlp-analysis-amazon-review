@@ -1,8 +1,8 @@
 # GOAL: Monitoring people's feedback on Amazon Fine Food sites
 
-# Specifically, the project covered the following 4 areas:
+ Specifically, the project covered the following 4 areas:
 
-## - Data Preparation
+ - Data Preparation
 - Exploratory analysis
 - Sentiment Analysis
 - TI-IDF
