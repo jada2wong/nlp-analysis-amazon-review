@@ -2,7 +2,7 @@
 
 # Specifically, the project covered the following 4 areas:
 
-- Data Preparation
+## - Data Preparation
 - Exploratory analysis
 - Sentiment Analysis
 - TI-IDF
