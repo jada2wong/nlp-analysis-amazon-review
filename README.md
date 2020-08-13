@@ -5,7 +5,7 @@
   - Data Preparation
   - Exploratory analysis
   - Sentiment Analysis
-  - TI-IDF
+  - TF-IDF
 
 # Project Task Breakdown
 
